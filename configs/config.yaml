@@ -1,0 +1,9 @@
+images_folder: images/PF/
+save_folder: output/PF/
+API_key: API_key.txt
+model: gemini-3.1-flash-image-preview
+limit: 1
+stacked_text: "P/F"
+prompt: "Do not change the first two characters P and F, do not change background image. Only update the 5 digits that follow. The final number in the image MUST be exactly: "
+# prompt: "Keep the first W and A characters, but randomly change the 5 digits to create a new unique number variation with 5 digits AND also write the generated number as plain text at the end so I can save it."
+# prompt: "remove digits"
