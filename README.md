@@ -1,4 +1,7 @@
 # AI Plate Generator
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/a49f5fdd-dc75-4657-a312-ef4d7b2a5824" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/6505a14b-a449-4fe1-a16e-0ff8bd8e969c" />
+(изображения сгенерированных номеров)
 
 AI Plate Generator — Генератор вариаций автомобильных номеров с использованием Google Gemini (image-to-image). Генерируется случайное 5-ти значное число.
 Проект берет исходные изображения номеров и изменяет цифры, символы, сохраняя стиль и фон. 
